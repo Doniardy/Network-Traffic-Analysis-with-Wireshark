@@ -58,8 +58,6 @@ By inspecting the DNS Standard Query packet for `netacad.com`, it was observed t
 
 This demonstrates how DNS traffic can reveal which websites a user is visiting and which IP addresses are resolved for those domains.
 
----
-
 #### HTTP Session Analysis
 An HTTP session was analyzed by capturing traffic between the Kali Linux client and a local DVWA web server running in a Docker container.
 
